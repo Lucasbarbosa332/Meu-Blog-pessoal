@@ -9,7 +9,7 @@
 
 <br/>
 
-<img width=100% src="https://github.com/Lucasbarbosa332/Meu-Blog-pessoal/blob/main/lucas/mg/V%C3%ADdeo%20do%20WhatsApp%20de%202024-05-15%20%C3%A0(s)%2021.52.51_cf1ea120.mp4"></img>
+<img width=100% src="https://github.com/Lucasbarbosa332/Meu-Blog-pessoal/blob/main/lucas/mg/Design%20sem%20nome.png"></img>
 
 <br/>
 
