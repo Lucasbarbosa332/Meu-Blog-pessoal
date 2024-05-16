@@ -1,0 +1,48 @@
+.bgblue {
+  margin-left: 790px;
+  background: linear-gradient(135deg, #032803f5, #3a4b8a, #adfe0098);
+  padding: 1px;
+  border-radius: 1.2rem;
+  box-shadow: 0px 1rem 1.5rem -0.9rem #000000e1;
+  max-width: 300px;
+}
+
+.card {
+  font-size: 1rem;
+  color: #00ff1a;
+  background: linear-gradient(135deg, #0d1120 0%, #10420a 43%, #0d1120 100%);
+  padding: 1.5rem;
+  border-radius: 1.2rem;
+}
+
+/* Estilos para telas maiores */
+.bgblue {
+  margin-left: 790px;
+  background: linear-gradient(135deg, #64940af5, #3a4b8a, #22960dc5);
+  padding: 1px;
+  border-radius: 1.2rem;
+  box-shadow: 0px 1rem 1.5rem -0.9rem #000000e1;
+  max-width: 300px;
+}
+
+.card {
+  padding: 30px;
+  font-size: 1rem;
+  color: #ffffff;
+  background: linear-gradient(135deg, #0d1120 0%, #10420a 43%, #0d1120 100%);
+  padding: 1.5rem;
+  border-radius: 1.2rem;
+}
+
+/* Estilos para telas menores, como dispositivos móveis */
+@media only screen and (max-width: 768px) {
+  .bgblue {
+    margin-left: 10px; /* Remova a margem para alinhar à esquerda */
+    max-width: 100%; /* Defina a largura máxima para ocupar toda a largura da tela */
+  }
+  
+.card {
+    padding: 1rem; /* Reduza o preenchimento */
+    border-radius: 0; /* Remova a borda arredondada */
+  }
+}
