@@ -35,7 +35,7 @@
 <h3 align='center'> 🌎 Rodando no navegador</h3>
 
 - Você pode clicar no link para ser redirecionado ao site:
-[Meu Blog](https://lucasbarbosasilva.netlify.app/)
+[Meu Blog](https://lucasbarbosadasilva.netlify.app/)
 
 
 <br/>
