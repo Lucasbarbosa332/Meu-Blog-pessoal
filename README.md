@@ -1,7 +1,7 @@
 # Meu-Blog-pessoal
 ## Lucas barbosa
  
-<h3 align='center'> 💻 Vamos aprender sobre educação? </h3>
+<h3 align='center'> 💻 Quem é Lucas silva ? </h3>
 
 ## 💻 Contexto
 
@@ -9,7 +9,7 @@
 
 <br/>
 
-<img width=100% src=""></img>
+<img width=100% src="https://github.com/Lucasbarbosa332/Meu-Blog-pessoal/blob/main/lucas/mg/V%C3%ADdeo%20do%20WhatsApp%20de%202024-05-15%20%C3%A0(s)%2021.52.51_cf1ea120.mp4"></img>
 
 <br/>
 
